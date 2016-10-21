@@ -1,1 +1,2 @@
 Fournir votre pseudo votre nom et votre mdp pour la creation d'un compte.
+Fournir en plus une adresse email valide.
